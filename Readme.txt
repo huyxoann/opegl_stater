@@ -1,0 +1,1 @@
+https://satviksrivastava.hashnode.dev/opengl-in-vs-code-setup
